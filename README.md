@@ -9,7 +9,7 @@ The system works completely locally using FAISS for retrieval and Ollama-based L
 
 ## Author
 Waqas Gurmani
-AI Engineer | RAG & LLM Specialist
+AI Learner | RAG & LLM Specialist
 
 ## Key Features
 - PDF-based knowledge ingestion
