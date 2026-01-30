@@ -1,14 +1,14 @@
-# 🎓 Leggend College Admission Counselor (RAG Chatbot)
+# 🎓 College Admission Counselor (RAG Chatbot)
 
 ## Project Overview
 This project is a professional Retrieval-Augmented Generation (RAG) based chatbot
-designed to provide accurate, document-grounded admission guidance for Leggend College, Multan.
+designed to provide accurate, document-grounded admission guidance for College.
 
 The system works completely locally using FAISS for retrieval and Ollama-based LLMs
 (Mistral / LLaMA), ensuring zero cost, privacy, and offline capability.
 
 ## Author
-Waqas Gurmani  
+Waqas Gurmani
 AI Engineer | RAG & LLM Specialist
 
 ## Key Features
